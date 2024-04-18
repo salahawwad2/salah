@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">assiment_1</string>
+    <string name="data_structure">Data Structure</string>
+    <string name="linux">Linux</string>
+    <string name="digital">Digital</string>
+    <string name="java">Java</string>
+    <string name="mathematics" />
+</resources>
